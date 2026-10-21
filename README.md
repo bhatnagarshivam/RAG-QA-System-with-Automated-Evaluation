@@ -38,3 +38,4 @@ The Chroma database is stored in `chroma_db/` on the app's local filesystem. Com
 - Uploaded documents and questions are sent to the configured OpenAI API when answering; avoid uploading sensitive material unless your data policy permits it.
 - The first run downloads the MiniLM model. CPU inference and OCR can be slow for large PDFs on the free Community Cloud tier.
 "# rag" 
+"# rag" 
