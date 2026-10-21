@@ -39,3 +39,4 @@ The Chroma database is stored in `chroma_db/` on the app's local filesystem. Com
 - The first run downloads the MiniLM model. CPU inference and OCR can be slow for large PDFs on the free Community Cloud tier.
 "# rag" 
 "# rag" 
+"# RAG-QA-System-with-Automated-Evaluation" 
